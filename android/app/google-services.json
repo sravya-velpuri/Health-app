@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135744322932",
+    "project_id": "wellnesspro-90317",
+    "storage_bucket": "wellnesspro-90317.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135744322932:android:bcfa395b74a3706bf3c021",
+        "android_client_info": {
+          "package_name": "com.example.fitlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1lheJBfproXaxnMEun_TDr_HFLZdtWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135744322932:android:bcb0b81ccc33c495f3c021",
+        "android_client_info": {
+          "package_name": "com.wellnesspro.wellness_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1lheJBfproXaxnMEun_TDr_HFLZdtWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

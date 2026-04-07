@@ -1,0 +1,23 @@
+﻿Analyzing auth_service.dart...                                  
+
+  error - The class 'GoogleSignIn' doesn't have an unnamed constructor - lib\services\auth_service.dart:32:32 - new_with_undefined_constructor_default
+  error - The method 'signIn' isn't defined for the type 'GoogleSignIn' - lib\services\auth_service.dart:32:47 - undefined_method
+
+flutter : 2 issues found. 
+(ran in 2.0s)
+At line:1 char:1
++ flutter analyze lib\serv
+ices\auth_service.dart 
+2>&1 | Out-File -FileP ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+    + CategoryInfo        
+      : NotSpecified: (2  
+   issues found. (ran i   
+ n 2.0s):String) [], R    
+emoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

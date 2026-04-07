@@ -1,0 +1,37 @@
+﻿Analyzing health and wellness...                                
+
+   info - Type could be non-nullable - lib\services\auth_service.dart:32:34 - unnecessary_nullable_for_final_variable_declarations
+   info - Statements in an if should be enclosed in a block - lib\views\bmi_screen.dart:234:36 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\views\bmi_screen.dart:235:39 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\views\bmi_screen.dart:236:39 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\views\bmi_screen.dart:237:22 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps - lib\views\profile_screen.dart:53:123 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\views\profile_screen.dart:54:131 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\views\profile_screen.dart:124:55 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\views\profile_screen.dart:124:85 - curly_braces_in_flow_control_structures
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\views\profile_screen.dart:204:31 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\views\profile_screen.dart:224:27 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\views\profile_screen.dart:263:25 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\views\profile_screen.dart:301:54 - use_build_context_synchronously
+   info - Unnecessary use of multiple underscores - lib\views\sleep_screen.dart:145:67 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\views\water_screen.dart:128:42 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\views\workout_screen.dart:255:26 - unnecessary_underscores
+
+flutter : 16 issues 
+found. (ran in 5.9s)
+At line:1 char:1
++ flutter analyze 
+--no-fatal-infos 2>&1 | 
+Out-File -FilePath 
+analyze_ne ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (1  
+  6 issues found. (ran    
+ in 5.9s):String) [],     
+RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

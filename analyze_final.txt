@@ -1,0 +1,24 @@
+﻿Analyzing health and wellness...                                
+
+   info - Type could be non-nullable - lib\services\auth_service.dart:32:34 - unnecessary_nullable_for_final_variable_declarations
+   info - Statements in an if should be enclosed in a block - lib\views\profile_screen.dart:139:55 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\views\profile_screen.dart:139:85 - curly_braces_in_flow_control_structures
+
+flutter : 3 issues found. 
+(ran in 6.3s)
+At line:1 char:1
++ flutter analyze 
+--no-fatal-infos 2>&1 | 
+Out-File -FilePath 
+analyze_fi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecifi    ed: 
+(3 issues foun    d. (ran 
+in 6.3s):S    tring) [], 
+RemoteE    xception
+    + FullyQualifiedEr    
+rorId : NativeComm    
+andError
+ 
